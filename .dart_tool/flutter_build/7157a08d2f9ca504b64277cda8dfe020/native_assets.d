@@ -1,0 +1,1 @@
+ B:\\Downloads\\INDEED\\image_gallery\\.dart_tool\\flutter_build\\7157a08d2f9ca504b64277cda8dfe020\\native_assets.yaml: 
