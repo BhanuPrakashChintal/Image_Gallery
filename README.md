@@ -1,6 +1,4 @@
-Here is a detailed README file for your Flutter image gallery app, following best practices for a professional and informative project:
 
----
 
 # Image Gallery App
 
@@ -137,6 +135,4 @@ image_gallery/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize any part of this README to better suit your needs!
